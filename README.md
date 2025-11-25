@@ -38,7 +38,7 @@ me = Developer()
 me.say_hi()
 ```
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Coding" width="320" src="./image-readme.jpeg"/>
 
 - 🔭 I mainly work with Python/Django
 - 🌱 I’m constantly exploring new technologies
