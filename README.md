@@ -25,6 +25,10 @@
 
 ## 🧑‍💻 About
 
+<table>
+<tr>
+<td width="60%">
+
 ```python
 class Developer:
     def __init__(self):
@@ -33,23 +37,21 @@ class Developer:
         self.stack = ["Python", "Django", "PostgreSQL", "Docker"]
         self.location = "France"
         self.website = "https://alexandre-petitjean.fr"
+        self.fun_fact = "I love eating V-Bucks for breakfast"
 
     def say_hi(self):
-        print("Thanks for visiting my profile! Feel free to get in touch.")
+        print("Thanks for visiting my profile!")
 
 me = Developer()
 me.say_hi()
 ```
 
-<img align="right" alt="Coding" width="320" src="./image-readme.jpeg"/>
-
-- 🔭 I mainly work with Python/Django
-- 🌱 I'm constantly exploring new technologies
-- 👨‍💻 I may have a blog on [my portfolio](https://alexandre-petitjean.fr)
-- 📫 Contact: petitjean.alexandre.pro@gmail.com
-- ⚡ Fun fact: I love eating V-Bucks for breakfast
-
-<br clear="right"/>
+</td>
+<td width="40%">
+<img alt="Coding" src="./image-readme.jpeg"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -79,28 +81,6 @@ me.say_hi()
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alexandre-petitjean&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=9333EA&icon_color=DC2626&text_color=ffffff" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandre-petitjean&theme=dark&hide_border=true&background=0D0D0D&ring=9333EA&fire=DC2626&currStreakLabel=9333EA&sideLabels=9333EA&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-petitjean&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=9333EA&text_color=ffffff" alt="Top Languages" />
-</div>
-
-<!-- Animation Snake -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  </picture>
 </div>
 
 ---
