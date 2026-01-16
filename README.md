@@ -6,19 +6,8 @@
 <!-- Badges profil -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=alexandre-petitjean&label=Profile%20views&color=3b82f6&style=for-the-badge" alt="Profile views" />
-  <a href="https://twitter.com/m3talzero1">
-    <img src="https://img.shields.io/twitter/follow/m3talzero1?logo=twitter&style=for-the-badge&color=3b82f6" alt="Twitter Follow" />
-  </a>
 </p>
-
-<!-- Trophées GitHub -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=alexandre-petitjean&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophées GitHub" />
-</a>
-
 </div>
-
----
 
 ## 🧑‍💻 About
 
