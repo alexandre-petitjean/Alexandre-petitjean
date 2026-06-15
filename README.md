@@ -35,13 +35,6 @@ Currently building LLM-powered tools and telecom engineering software [@ITSoluti
 
 <br clear="right"/>
 
-### GitHub
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alexandre-petitjean&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=9333ea&icon_color=9333ea&hide=contribs" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-petitjean&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=9333ea" alt="Top languages" />
-</div>
-
 ### Reach me
 
 [![Malt](https://img.shields.io/badge/Malt-Hire_me-FC5757?style=flat-square&logo=malt&logoColor=white)](https://www.malt.fr/profile/alexandrepetitjean1)
