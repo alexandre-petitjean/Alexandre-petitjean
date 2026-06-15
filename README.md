@@ -6,7 +6,7 @@
 
 [![Available for freelance work](https://img.shields.io/badge/Available_for-freelance_work-2ea043?style=flat-square)](https://www.malt.fr/profile/alexandrepetitjean1)
 
-Currently building LLM-powered tools and telecom engineering software [@ITSolutionsFactory](https://github.com/itsolutionsfactory). Open to new freelance missions.
+Graphics-card eater · Django wizard · LLM-tooling smith. Building my next SaaS. Open to freelance missions.
 
 </div>
 
