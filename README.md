@@ -20,8 +20,6 @@ Currently building LLM-powered tools and telecom engineering software [@ITSoluti
 - 🌱 [react-allauth](https://github.com/alexandre-petitjean/react-allauth) — Django AllAuth SDK for React
 - ✍️ Writing at [alexandre-petitjean.fr](https://alexandre-petitjean.fr/)
 
-<br clear="right"/>
-
 ### Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -34,6 +32,8 @@ Currently building LLM-powered tools and telecom engineering software [@ITSoluti
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+<br clear="right"/>
 
 ### GitHub
 
